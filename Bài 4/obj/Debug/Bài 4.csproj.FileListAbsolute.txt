@@ -1,0 +1,7 @@
+C:\Users\ACER\Documents\C#2\Lab1_Phan_Tuấn_Đạt_PD11090\Bài 4\bin\Debug\Bài 4.exe.config
+C:\Users\ACER\Documents\C#2\Lab1_Phan_Tuấn_Đạt_PD11090\Bài 4\bin\Debug\Bài 4.exe
+C:\Users\ACER\Documents\C#2\Lab1_Phan_Tuấn_Đạt_PD11090\Bài 4\bin\Debug\Bài 4.pdb
+C:\Users\ACER\Documents\C#2\Lab1_Phan_Tuấn_Đạt_PD11090\Bài 4\obj\Debug\Bài 4.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\C#2\Lab1_Phan_Tuấn_Đạt_PD11090\Bài 4\obj\Debug\Bài 4.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\C#2\Lab1_Phan_Tuấn_Đạt_PD11090\Bài 4\obj\Debug\Bài 4.exe
+C:\Users\ACER\Documents\C#2\Lab1_Phan_Tuấn_Đạt_PD11090\Bài 4\obj\Debug\Bài 4.pdb
